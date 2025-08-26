@@ -240,19 +240,19 @@ h4 {
 }
 
 .categories .cover-1 {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/cover-1.jpg?raw=true")
+  background: url("./image\ copy\ 5.png")
     no-repeat center center / cover;
 }
 .categories .cover-2 {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/cover-2.jpg?raw=true")
+  background: url("./image\ copy\ 6.png")
     no-repeat center center / cover;
 }
 .categories .cover-3 {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/cover-3.jpg?raw=true")
+  background: url("./image\ copy\ 7.png")
     no-repeat center center / cover;
 }
 .categories .cover-4 {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/cover-4.jpg?raw=true")
+  background: url("./image\ copy\ 8.png")
     no-repeat center center / cover;
 }
 
@@ -284,7 +284,7 @@ h4 {
 /* Live Sports */
 
 .live-sports {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/live-sports.jpg?raw=true")
+  background: url("./image\ copy\ 9.png")
     no-repeat center center / cover;
   height: 800px;
   position: relative;
@@ -306,7 +306,7 @@ h4 {
 }
 
 .live-sports-logos > div {
-  background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/network-logo-bg.png?raw=true")
+  background: url("./image\ copy\ 10.png")
     no-repeat center center / cover;
   height: 60px;
   width: 60px;
@@ -510,7 +510,7 @@ h4 {
   }
 
   .live-sports {
-    background: url("https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/live-sports-small.jpg?raw=true")
+    background: url("./image\ copy\ 11.png")
       no-repeat center center / cover;
   }
 
